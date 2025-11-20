@@ -1,6 +1,24 @@
 可持续发展
 Sustainable
 ESG
+CSR
+EHS
+
+TCFD
+TNFD
+ISSB
+ISCC
+CSRD
+SASB
+PRI
+EcoVadis
+BCorp
+UNGC
+MSCI
+S&P
+IFRS
+GRI
+
 
 康师傅
 
@@ -10,41 +28,19 @@ ESG
 生态环境部
 
 
-字节
-bytedance
-张一鸣
-
-特斯拉
-马斯克
-
-
-英伟达
-NVIDIA
-黄仁勋
-
-
-谷歌
-google
 gemini
 deepmind
 
 chatgpt
 openai
-sora
 
 claude
 Anthropic
 
-
 mac
 
 ai
-!gai
-人工智能
 AIGC
 AI Agent
 
-自动驾驶
-
-机器人
 
